@@ -1,0 +1,52 @@
+body {
+    /* background: black url(images/madoka-exit-stairs.png) no-repeat fixed center; */
+    /* background-color:#fff8e3; */
+    background-image: linear-gradient(90deg, #fff8e3, white,white, white,#fff8e3);
+}
+
+h1, h2, .serif {
+    font-family: 'Playfair Display', Georgia, serif;
+}
+
+p, .sansserif {
+    font-family: 'Oxygen', Helvetica, sans-serif;
+}
+
+article, header, main, footer, img {
+    max-width: 100%;
+    margin: auto;
+    min-width: 350px;
+}
+
+article {
+    width: 700px;
+    height: 100%;
+    padding: 2%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    line-height: 92%;
+}
+
+h2 {
+    margin-bottom: -16px;
+}
+
+p {
+    text-align: justify;
+}
+
+.imgWrap {
+    padding: 3% 3% 0 3%;
+    background-color: black;
+    color: white;
+}
+
+.imgWrap .caption {
+    text-align: right;
+    margin: -3px 0 5px 0;
+    padding-bottom: 5px;
+    font-style:italic;
+}
