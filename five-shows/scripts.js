@@ -9,7 +9,7 @@ class Entries {
 
 let bbb = new Entries('Blood Blockade Battlefront', 'Searching for a miracle, Leonardo Watch moves to Hellsalem\'s Lot. On the site of New York after a great cataclysm, this regrettably named metropolis now teems with monsters, aliens, and supernatural creatures of all sorts. Blood Blockade Battlefront suffers from having a meaningless tongue-twister for an English title, but don\'t let that deter you. This is solid <em class=\'foreign\'>sh&#333;nen</em>.', 'BBB_leonardo_diner.png', 'Leonardo Watch sits at a diner in HL.');
 
-let rinne = new Entries('Rin-ne', 'This is a series about the friendship between Mamiya Sakura, a high-school girl who can see spirits, and Rokud&#333; Rinne, a minor god who is always broke. One immediately thinks of Noragami, and Rin-ne falls flat by comparison, but it still entertains.', 'rinne_10yen.png', 'Rinne asks Sakura for change to operate a spirit phone.');
+let rinne = new Entries('Rin-ne', 'This is a series about the friendship between Mamiya Sakura, a high-school student who can see spirits, and Rokud&#333; Rinne, a cash-strapped minor god. One immediately thinks of Noragami, and Rin-ne falls flat by comparison, but it still entertains.', 'rinne_10yen.png', 'Rinne asks Sakura for change to operate a spirit phone.');
 
 let dagashiKashi = new Entries('Dagashi Kashi', 'This slice-of-life show about a small-town candy store is just plain charming. Sadly, the second season was made as a series of twelve-minute shorts&mdash;not even full episodes. Boooo! Still, you should watch Dagashi Kashi.', 'hotaru_extols.png', 'Hotaru extols the virtues of Umaib&#333;, a classic Japanese snack.');
 
