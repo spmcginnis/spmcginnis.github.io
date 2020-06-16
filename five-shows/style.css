@@ -1,4 +1,4 @@
-body {
+#body {
     /* background: black url(images/madoka-exit-stairs.png) no-repeat fixed center; */
     /* background-color:#fff8e3; */
     background-image: linear-gradient(90deg, #fff8e3, white,white, white,#fff8e3);
